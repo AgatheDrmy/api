@@ -7,11 +7,11 @@ app = FastAPI()
 
 # Configuration de la base de donn\u00e9es MySQL
 DB_CONFIG = {
-    "host": "ecole-groupe10.c5y24wq4aulw.eu-west-3.rds.amazonaws.com",  # Exemple : serveur local
+    "host": "ecole-groupe-10.c5y24wq4aulw.eu-west-3.rds.amazonaws.com",  # Exemple : serveur local
     "port": "3306",       # Port par d\u00e9faut de MySQL
     "user": "admin",       # Exemple : utilisateur par d\u00e9faut
     "password": "isen2025",       # Remplacez par votre mot de passe
-    "database": ""
+    "database": "ecoleg10"
 }
 
 # Mod\u00e8le pour les entr\u00e9es
