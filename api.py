@@ -11,7 +11,7 @@ DB_CONFIG = {
     "port": "3306",       # Port par d\u00e9faut de MySQL
     "user": "admin",       # Exemple : utilisateur par d\u00e9faut
     "password": "isen2025",       # Remplacez par votre mot de passe
-    "database": "ecoleg10"
+    "database": "ecole-groupe-10"
 }
 
 # Mod\u00e8le pour les entr\u00e9es
